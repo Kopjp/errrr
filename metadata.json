@@ -1,0 +1,8 @@
+{
+  "name": "Remix محاسبة معصرة الزيتون",
+  "description": "برنامج محاسبة وإدارة متكامل لمعاصر الزيتون: شراء الزيتون، بيع الزيت، عصر الزيتون للزبائن، إدارة المخزون والخزانات، وإصدار الفواتير والتقارير المالية",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
